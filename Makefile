@@ -18,7 +18,7 @@ TARGET = main
 BUILD_DIR = build
 
 # LD_SCRIPT: location of the linker script
-LD_SCRIPT = lpc11xx.ld
+LD_SCRIPT = lpc1xx.ld
 
 # LPCOPEN_PATH: path to lpcopen files
 LPCOPEN_PATH = /home/eric/code/lpc1xx-template/lpcopen
